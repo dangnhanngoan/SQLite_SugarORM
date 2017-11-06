@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/insert"
+        android:title="Add Jod"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/update"
+        android:title="Update Job"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/display"
+        android:title="Display Job"
+        app:showAsAction="never"/>
+</menu>
